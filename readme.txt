@@ -4,3 +4,4 @@ git is free software
 git has a mutable index celled stage.
 modify this file
 modify twice
+My stupid boss still prefers SVN
