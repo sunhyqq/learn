@@ -1,0 +1,10 @@
+/*版心为1190px*/
+.w{
+    width: 1190px;
+    margin: auto;/*居中对齐*/
+}
+/*header部分*/
+header{
+    height: 80px;
+    background-color: #020000;
+}
